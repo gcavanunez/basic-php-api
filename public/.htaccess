@@ -1,0 +1,4 @@
+Options -Multiviews
+RewriteEngine On
+RewriteBase /public
+Options -Indexes
